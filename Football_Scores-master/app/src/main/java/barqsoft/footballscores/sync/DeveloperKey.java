@@ -5,6 +5,6 @@ package barqsoft.footballscores.sync;
  */
 public class DeveloperKey {
 
-    public static final String DEVELOPER_KEY = "2be91b5540bd4de493758b57e77171b2";
+    public static final String DEVELOPER_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 }
