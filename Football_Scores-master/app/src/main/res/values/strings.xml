@@ -53,4 +53,5 @@
     <string name="aboutDescription">Menu item About</string>
     <string name="tabLayoutDescription">Days in TabLayout</string>
     <string name="settingsDescription">Menu item Settings</string>
+    <string name="shareDescription">Share buttons</string>
 </resources>
