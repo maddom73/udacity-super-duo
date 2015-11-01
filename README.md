@@ -3,6 +3,7 @@
 ##Libraries
 
  • Picasso
+ 
  • LeakCanary
  
 #Android Developer Nanodegree
